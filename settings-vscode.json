@@ -108,18 +108,6 @@
         "editor.defaultFormatter": "HookyQR.beautify"
     },
     "merge-conflict.diffViewPosition": "Beside",
-    "mssql.connections": [
-        {
-            "server": "0938285e-5e50-4dd1-bf84-a43d0144ca10.sqlserver.sequelizer.com",
-            "database": "db0938285e5e504dd1bf84a43d0144ca10",
-            "authenticationType": "SqlLogin",
-            "user": "hqcvrhpujepykece",
-            "password": "",
-            "emptyPasswordInput": false,
-            "savePassword": true,
-            "profileName": "MensagensAmigaveis"
-        }
-    ],
     "workbench.colorTheme": "Dracula",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.fontLigatures": true,
